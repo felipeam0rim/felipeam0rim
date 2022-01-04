@@ -44,4 +44,4 @@
 <img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"</img>
 </p></br></br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipeam0rim&show_icons=true&locale=en" alt="felipeam0rim" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipeam0rim&show_icons=true&locale=en&theme=dracula" alt="felipeam0rim" /></p>
