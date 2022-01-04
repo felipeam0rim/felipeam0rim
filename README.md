@@ -41,7 +41,6 @@
 <a href="https://linkedin.com/in/luis-felipe-amorim-43b201210" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="luis felipe amorim"/></a>
 <a href="https://discord.gg/Felix#0771" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Felix#0771"/></a>
 <img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"</img>
-</p>
-
+</p></br></br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipeam0rim&show_icons=true&locale=en" alt="felipeam0rim" /></p>
