@@ -1,8 +1,6 @@
 <h1 align="center">Hello there 👋, Welcome to my github profile!</h1>
 <h3 align="center">My name is Luis Felipe Amorim Silva and i'm 27 years old</h3>
 
-![](https://dcbadge.vercel.app/api/shield/Felix#0771)
-
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/> </a>
@@ -41,6 +39,6 @@
 <h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/luis-felipe-amorim-43b201210" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="luis felipe amorim"/></a>
-<a href="https://discord.gg/Felix#0771" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Felix#0771" height="30" width="40" /></a>
+<a href="https://discord.gg/Felix#0771" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Felix#0771"/></a>
 <img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"</img>
 </p>
