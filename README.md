@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, Welcome to my github profile!</h1>
 <h3 align="center">My name is Luis Felipe Amorim Silva and i'm 27 years old</h3>
 
-<h3 align="left"><ul>Programming Languages:</ul></h3>
+<h3 align="left"><ul><li>Programming Languages:</li></ul></h3>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/> </a>
