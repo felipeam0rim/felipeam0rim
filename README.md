@@ -45,4 +45,3 @@
 </p></br></br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipeam0rim&show_icons=true&locale=en&theme=dracula" alt="felipeam0rim" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username={felipeam0rim}" alt="felipeam0rim" /></p>
