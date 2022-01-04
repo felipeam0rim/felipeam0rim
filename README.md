@@ -38,7 +38,7 @@
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/luis-felipe-amorim-43b201210" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="luis felipe amorim" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/luis-felipe-amorim-43b201210" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="luis felipe amorim"/></a>
 <a href="https://discord.gg/Felix#0771" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Felix#0771" height="30" width="40" /></a>
 <img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"</img>
 </p>
