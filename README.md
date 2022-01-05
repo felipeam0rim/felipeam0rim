@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, Welcome to my github profile!</h1>
-<h3 align="center">My name is Luis Felipe Amorim Silva, i'm 27 years old and i'm currently doing an intership at departament of public safety in the state i live (SSP-AL)</h3>
+<h3 align="center">My name is Luis Felipe Amorim Silva, i'm 27 years old and i'm currently doing an intership at departament of public safety in the state of Alagoas from Brazil (SSP-AL)</h3>
 
 <h3 align="left">* Programming Languages:</h3>
 <p align="left">
