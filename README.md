@@ -32,7 +32,7 @@
 <a href="https://linkedin.com/in/luis-felipe-amorim-43b201210" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="luis felipe amorim"/></a>
 <a href="https://discordapp.com/users/226190122721345539" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Felix#0771"/></a>
 <a href = "mailto:amorim.felix@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = "mailto:amorim.felix@gmail.com"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"</img></a>
+<a href = "mailto:lfas_al@hotmail.com"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"</img></a>
 </p></br></br>
 
 <a href="https://github.com/felipeam0rim">
