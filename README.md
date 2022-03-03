@@ -1,6 +1,13 @@
 <h2 align="center">Hello there 👋, Welcome to my github profile!</h1>
 <h4 align="center">My name is Luis Felipe, i'm 27 years old and i'm currently doing an intership at Departament of Public Safety in the state of Alagoas from Brazil (SSP-AL)</h3>
 
+<h3 align="left">* Frameworks and Libraries:</h3>
+<p align="left">
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/> </a>
+<a href="https://reactnative.dev/" target="blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react native"/> </a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel"/> </a>
+</p>
+
 <h3 align="left">* Programming Languages:</h3>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/> </a>
@@ -18,13 +25,6 @@
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass"/> </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs"/> </a>
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="webpack"/> </a>
-</p>
-
-<h3 align="left">* Frameworks and Libraries:</h3>
-<p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/> </a>
-<a href="https://reactnative.dev/" target="blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react native"/> </a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel"/> </a>
 </p>
 
 <h3 align="left">* Contact me:</h3>
